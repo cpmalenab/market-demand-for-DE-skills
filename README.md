@@ -4,6 +4,6 @@ Understanding the market demand can (1) help present and future professionals bu
 
 * Scraped over 1000 job description on indeed.com using BeautifulSoup and Selenium.
 * Performed data filter and cleaning using Pandas. 
-* Modeled the data in PostgreSQL using pscopg2 and SQLAlchemy libraries.
+* Modeled the data in PostgreSQL using psycopg2 and SQLAlchemy libraries.
 * Conducted data visualization of geospatial distribution, industry demand, and in-demand hard and soft skills.
 * Performed topic modeling to extract the most sought after skill set combination.
