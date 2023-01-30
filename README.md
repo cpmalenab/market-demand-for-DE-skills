@@ -19,7 +19,7 @@ Summary:
 * Performed data filtering and cleaning using Pandas. 
 * Modeled the data in PostgreSQL using psycopg2 and SQLAlchemy libraries.
 * Conducted data visualization of geospatial distribution, industry demand, and in-demand hard and soft skills.
-* Performed topic modeling to extract the most sought after skill set combination.
+* Performed topic modeling using Non-negative Matrix Factorization to extract the most sought after skill set combination.
 
 The findings of the study showed that SQL, Python, and ETL are the leading hard skills and communication, analytical thinking, and leadership are the coveted soft skills in the current market. In addition, knowledge in both data architecture and analytics emerges as the skill combination that would give a competitive advantage to data engineers.
 
