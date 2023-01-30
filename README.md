@@ -8,9 +8,8 @@ The figure below shows a high-level view of the data flow to extract the in-dema
 <p align="center">
   <img src="https://github.com/cpmalenab/market_demand_analysis_for_DE_skills/blob/main/images/Data%20Flow%20Diagram.jpg">
 </p>
+<p align="center">Figure. Data Flow Diagram</p>
 
-
-<center>Figure. Data Flow Diagram</center>
 
 * Scraped over 1000 job descriptions on indeed.com using BeautifulSoup and Selenium.
 * Performed data filtering and cleaning using Pandas. 
