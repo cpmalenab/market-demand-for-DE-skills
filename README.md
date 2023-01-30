@@ -2,7 +2,7 @@
 
 Understanding the market demand can (1) help present and future professionals build their portfolio with the most marketable skills, (2) supplement the frameworks of educational institutions and training centers to better prepare students in the digital industry, and (3) give an insight to the general landscape of data engineering industry with the Philippines as the geographical focus.
 
-![](https://github.com/cpmalenab/market_demand_analysis_for_DE_skills/blob/main/images/Data%20Flow%20Diagram.png)
+![](https://github.com/cpmalenab/market_demand_analysis_for_DE_skills/blob/main/images/Data%20Flow%20Diagram.jpg)
 
 * Scraped over 1000 job descriptions on indeed.com using BeautifulSoup and Selenium.
 * Performed data filtering and cleaning using Pandas. 
